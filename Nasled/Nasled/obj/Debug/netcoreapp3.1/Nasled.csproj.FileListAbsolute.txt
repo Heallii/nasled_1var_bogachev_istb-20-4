@@ -1,0 +1,67 @@
+C:\Users\рикимару\Desktop\ХОЧЕШЬ СТАТЬ ПРОГРАММИСТОМ\Nasled\Nasled\bin\Debug\netcoreapp3.1\Nasled.exe
+C:\Users\рикимару\Desktop\ХОЧЕШЬ СТАТЬ ПРОГРАММИСТОМ\Nasled\Nasled\bin\Debug\netcoreapp3.1\Nasled.deps.json
+C:\Users\рикимару\Desktop\ХОЧЕШЬ СТАТЬ ПРОГРАММИСТОМ\Nasled\Nasled\bin\Debug\netcoreapp3.1\Nasled.runtimeconfig.json
+C:\Users\рикимару\Desktop\ХОЧЕШЬ СТАТЬ ПРОГРАММИСТОМ\Nasled\Nasled\bin\Debug\netcoreapp3.1\Nasled.runtimeconfig.dev.json
+C:\Users\рикимару\Desktop\ХОЧЕШЬ СТАТЬ ПРОГРАММИСТОМ\Nasled\Nasled\bin\Debug\netcoreapp3.1\Nasled.dll
+C:\Users\рикимару\Desktop\ХОЧЕШЬ СТАТЬ ПРОГРАММИСТОМ\Nasled\Nasled\bin\Debug\netcoreapp3.1\Nasled.pdb
+C:\Users\рикимару\Desktop\ХОЧЕШЬ СТАТЬ ПРОГРАММИСТОМ\Nasled\Nasled\obj\Debug\netcoreapp3.1\Nasled.csproj.AssemblyReference.cache
+C:\Users\рикимару\Desktop\ХОЧЕШЬ СТАТЬ ПРОГРАММИСТОМ\Nasled\Nasled\obj\Debug\netcoreapp3.1\Nasled.Form1.resources
+C:\Users\рикимару\Desktop\ХОЧЕШЬ СТАТЬ ПРОГРАММИСТОМ\Nasled\Nasled\obj\Debug\netcoreapp3.1\Nasled.csproj.GenerateResource.cache
+C:\Users\рикимару\Desktop\ХОЧЕШЬ СТАТЬ ПРОГРАММИСТОМ\Nasled\Nasled\obj\Debug\netcoreapp3.1\Nasled.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\рикимару\Desktop\ХОЧЕШЬ СТАТЬ ПРОГРАММИСТОМ\Nasled\Nasled\obj\Debug\netcoreapp3.1\Nasled.AssemblyInfoInputs.cache
+C:\Users\рикимару\Desktop\ХОЧЕШЬ СТАТЬ ПРОГРАММИСТОМ\Nasled\Nasled\obj\Debug\netcoreapp3.1\Nasled.AssemblyInfo.cs
+C:\Users\рикимару\Desktop\ХОЧЕШЬ СТАТЬ ПРОГРАММИСТОМ\Nasled\Nasled\obj\Debug\netcoreapp3.1\Nasled.csproj.CoreCompileInputs.cache
+C:\Users\рикимару\Desktop\ХОЧЕШЬ СТАТЬ ПРОГРАММИСТОМ\Nasled\Nasled\obj\Debug\netcoreapp3.1\Nasled.dll
+C:\Users\рикимару\Desktop\ХОЧЕШЬ СТАТЬ ПРОГРАММИСТОМ\Nasled\Nasled\obj\Debug\netcoreapp3.1\Nasled.pdb
+C:\Users\рикимару\Desktop\ХОЧЕШЬ СТАТЬ ПРОГРАММИСТОМ\Nasled\Nasled\obj\Debug\netcoreapp3.1\Nasled.genruntimeconfig.cache
+C:\Users\рикимару\Desktop\ХОЧЕШЬ СТАТЬ ПРОГРАММИСТОМ\Nasled\Nasled\obj\Debug\netcoreapp3.1\Nasled.Properties.Resources.resources
+C:\Users\KOt\Desktop\Nasled\Nasled\Nasled\bin\Debug\netcoreapp3.1\Nasled.exe
+C:\Users\KOt\Desktop\Nasled\Nasled\Nasled\bin\Debug\netcoreapp3.1\Nasled.deps.json
+C:\Users\KOt\Desktop\Nasled\Nasled\Nasled\bin\Debug\netcoreapp3.1\Nasled.runtimeconfig.json
+C:\Users\KOt\Desktop\Nasled\Nasled\Nasled\bin\Debug\netcoreapp3.1\Nasled.runtimeconfig.dev.json
+C:\Users\KOt\Desktop\Nasled\Nasled\Nasled\bin\Debug\netcoreapp3.1\Nasled.dll
+C:\Users\KOt\Desktop\Nasled\Nasled\Nasled\bin\Debug\netcoreapp3.1\Nasled.pdb
+C:\Users\KOt\Desktop\Nasled\Nasled\Nasled\obj\Debug\netcoreapp3.1\Nasled.csproj.AssemblyReference.cache
+C:\Users\KOt\Desktop\Nasled\Nasled\Nasled\obj\Debug\netcoreapp3.1\Nasled.Form1.resources
+C:\Users\KOt\Desktop\Nasled\Nasled\Nasled\obj\Debug\netcoreapp3.1\Nasled.Properties.Resources.resources
+C:\Users\KOt\Desktop\Nasled\Nasled\Nasled\obj\Debug\netcoreapp3.1\Nasled.csproj.GenerateResource.cache
+C:\Users\KOt\Desktop\Nasled\Nasled\Nasled\obj\Debug\netcoreapp3.1\Nasled.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOt\Desktop\Nasled\Nasled\Nasled\obj\Debug\netcoreapp3.1\Nasled.AssemblyInfoInputs.cache
+C:\Users\KOt\Desktop\Nasled\Nasled\Nasled\obj\Debug\netcoreapp3.1\Nasled.AssemblyInfo.cs
+C:\Users\KOt\Desktop\Nasled\Nasled\Nasled\obj\Debug\netcoreapp3.1\Nasled.csproj.CoreCompileInputs.cache
+C:\Users\KOt\Desktop\Nasled\Nasled\Nasled\obj\Debug\netcoreapp3.1\Nasled.dll
+C:\Users\KOt\Desktop\Nasled\Nasled\Nasled\obj\Debug\netcoreapp3.1\Nasled.pdb
+C:\Users\KOt\Desktop\Nasled\Nasled\Nasled\obj\Debug\netcoreapp3.1\Nasled.genruntimeconfig.cache
+E:\Технология программирования\Nasled\Nasled\Nasled\bin\Debug\netcoreapp3.1\Nasled.exe
+E:\Технология программирования\Nasled\Nasled\Nasled\bin\Debug\netcoreapp3.1\Nasled.deps.json
+E:\Технология программирования\Nasled\Nasled\Nasled\bin\Debug\netcoreapp3.1\Nasled.runtimeconfig.json
+E:\Технология программирования\Nasled\Nasled\Nasled\bin\Debug\netcoreapp3.1\Nasled.runtimeconfig.dev.json
+E:\Технология программирования\Nasled\Nasled\Nasled\bin\Debug\netcoreapp3.1\Nasled.dll
+E:\Технология программирования\Nasled\Nasled\Nasled\bin\Debug\netcoreapp3.1\Nasled.pdb
+E:\Технология программирования\Nasled\Nasled\Nasled\obj\Debug\netcoreapp3.1\Nasled.csprojAssemblyReference.cache
+E:\Технология программирования\Nasled\Nasled\Nasled\obj\Debug\netcoreapp3.1\Nasled.Form1.resources
+E:\Технология программирования\Nasled\Nasled\Nasled\obj\Debug\netcoreapp3.1\Nasled.Properties.Resources.resources
+E:\Технология программирования\Nasled\Nasled\Nasled\obj\Debug\netcoreapp3.1\Nasled.csproj.GenerateResource.cache
+E:\Технология программирования\Nasled\Nasled\Nasled\obj\Debug\netcoreapp3.1\Nasled.AssemblyInfoInputs.cache
+E:\Технология программирования\Nasled\Nasled\Nasled\obj\Debug\netcoreapp3.1\Nasled.AssemblyInfo.cs
+E:\Технология программирования\Nasled\Nasled\Nasled\obj\Debug\netcoreapp3.1\Nasled.csproj.CoreCompileInputs.cache
+E:\Технология программирования\Nasled\Nasled\Nasled\obj\Debug\netcoreapp3.1\Nasled.dll
+E:\Технология программирования\Nasled\Nasled\Nasled\obj\Debug\netcoreapp3.1\Nasled.pdb
+E:\Технология программирования\Nasled\Nasled\Nasled\obj\Debug\netcoreapp3.1\Nasled.genruntimeconfig.cache
+J:\Технология программирования\Nasled\Nasled\Nasled\bin\Debug\netcoreapp3.1\Nasled.exe
+J:\Технология программирования\Nasled\Nasled\Nasled\bin\Debug\netcoreapp3.1\Nasled.deps.json
+J:\Технология программирования\Nasled\Nasled\Nasled\bin\Debug\netcoreapp3.1\Nasled.runtimeconfig.json
+J:\Технология программирования\Nasled\Nasled\Nasled\bin\Debug\netcoreapp3.1\Nasled.runtimeconfig.dev.json
+J:\Технология программирования\Nasled\Nasled\Nasled\bin\Debug\netcoreapp3.1\Nasled.dll
+J:\Технология программирования\Nasled\Nasled\Nasled\bin\Debug\netcoreapp3.1\Nasled.pdb
+J:\Технология программирования\Nasled\Nasled\Nasled\obj\Debug\netcoreapp3.1\Nasled.csproj.AssemblyReference.cache
+J:\Технология программирования\Nasled\Nasled\Nasled\obj\Debug\netcoreapp3.1\Nasled.Form1.resources
+J:\Технология программирования\Nasled\Nasled\Nasled\obj\Debug\netcoreapp3.1\Nasled.Properties.Resources.resources
+J:\Технология программирования\Nasled\Nasled\Nasled\obj\Debug\netcoreapp3.1\Nasled.csproj.GenerateResource.cache
+J:\Технология программирования\Nasled\Nasled\Nasled\obj\Debug\netcoreapp3.1\Nasled.GeneratedMSBuildEditorConfig.editorconfig
+J:\Технология программирования\Nasled\Nasled\Nasled\obj\Debug\netcoreapp3.1\Nasled.AssemblyInfoInputs.cache
+J:\Технология программирования\Nasled\Nasled\Nasled\obj\Debug\netcoreapp3.1\Nasled.AssemblyInfo.cs
+J:\Технология программирования\Nasled\Nasled\Nasled\obj\Debug\netcoreapp3.1\Nasled.csproj.CoreCompileInputs.cache
+J:\Технология программирования\Nasled\Nasled\Nasled\obj\Debug\netcoreapp3.1\Nasled.dll
+J:\Технология программирования\Nasled\Nasled\Nasled\obj\Debug\netcoreapp3.1\Nasled.pdb
+J:\Технология программирования\Nasled\Nasled\Nasled\obj\Debug\netcoreapp3.1\Nasled.genruntimeconfig.cache
